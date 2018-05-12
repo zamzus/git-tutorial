@@ -1,4 +1,2 @@
 Git is distributed version control system
-Git is free sofware distributed under the GPL
 Git is better than SVN for most programmer
-Git is quike
