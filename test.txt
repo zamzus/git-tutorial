@@ -5,3 +5,4 @@ dev is on 9999S onelite
 add newline
 delete all
 add something
+delete something
