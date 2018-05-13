@@ -3,3 +3,4 @@ Git is free sofware distributed under the GPL
 Git is better than SVN for most programmer
 dev is on 9999S
 add newline
+delete all
